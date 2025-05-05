@@ -50,6 +50,7 @@ const CheckEmail = () => {
                     alt="Check Email"
                     style={emailIconStyle}
                 />
+                
                 <h1 style={headingStyle}>Check Your Email</h1>
                 <p style={messageStyle}>
                     We&apos;ve sent you an email to verify your account.
